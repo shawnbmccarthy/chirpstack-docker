@@ -88,7 +88,7 @@ $ docker-compose up
 ```
 
 After all the components have been initialized and started, you should be able
-to open http://localhost:8080/ in your browser.
+to open http://localhost:8050/ in your browser.
 
 ##
 
